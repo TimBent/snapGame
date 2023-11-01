@@ -49,5 +49,3 @@ Contributions are welcome. Please feel free to submit a pull request.
 ## License
 
 This project is licensed under the terms of the MIT license. 
-
-Please note that this is just an example README file. You may want to add more sections such as Installation, Requirements, Testing, etc., depending on your project's needs. Also, remember to replace "ScalaTestSnap" with your actual project name if it's different.
